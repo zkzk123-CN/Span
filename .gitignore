@@ -1,0 +1,33 @@
+# 二进制文件
+bin/
+release/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# 测试文件
+test_*.txt
+*.test
+
+# IDE 文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 临时文件
+tmp/
+temp/
+*.tmp
+*.log
+
+# Go 相关
+*.out
+go.work
+
+# OS 文件
+.DS_Store
+Thumbs.db
